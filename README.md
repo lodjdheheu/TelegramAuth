@@ -18,8 +18,8 @@ INSTRUCTION:
   4. Start yout server
   5. Your console is red. It's ok, just stop your server again
   6. Create new telegram bot. Here is the instruction: https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/ 
-  7. Open config.yml and add your bot's token and username (token and user_name fields)
+  7. Open up config.yml and add your bot's token and username (token and user_name fields)
   8. Also you need to connect this plugin to the database. It uses mysql. So you need to add your database's data (MySql field)
-  9. Swear to God (it helps)
+  9. Pray to God (it helps)
   10. Start your server
   11. There we go! I hope it's working for you ;)
